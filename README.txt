@@ -11,8 +11,7 @@ Prerequisites:
 	
 Installation procedure:
 	1. Extract the contents of the zip file into a folder inside your document root.
-		(if you don't know where is your document root, please read this:
-		http://www.karelia.com/sandvox/help/z/Document_Root.html )
+		
 	2. In your web browser, go to: http://localhost/ORPM_folder/
 		(change "ORPM_folder" above to the name of the folder you extracted the files into
 		in step 1)
@@ -32,8 +31,7 @@ Prerequisites:
 
 Installation procedure:
 	1. Extract the contents of the zip file and upload them to a folder inside your document
-		root. (if you don't know where is your document root, please read this:
-		http://www.karelia.com/sandvox/help/z/Document_Root.html )
+		root. 
 	2. In your web browser, go to: http://your_server_address/ORPM_folder/
 		(change "your_server_address" above to the actual domain name or IP address of your
 		server, and change"ORPM_folder" to the name of the folder you uploaded the files to
